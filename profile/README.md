@@ -22,7 +22,6 @@ FromSoftware, renowned for its challenging and immersive titles, is set to expan
 
 The official release date is **May 30, 2025**.
 
-*BANDAI NAMCO USA*
 
 ## Pricing and Editions
 The game offers multiple editions to cater to different player preferences:
@@ -50,8 +49,6 @@ The game offers multiple editions to cater to different player preferences:
 
 Additionally, a **Seekers Edition** is available in select regions, featuring the Deluxe Edition content and a SteelBook case.
 
-*BANDAI NAMCO USA*
-
 ## Gameplay Mechanics
 **Elden Ring: Nightreign** introduces a cooperative multiplayer dynamic, allowing teams of up to three players to embark on a survival journey. Key gameplay elements include:
 
@@ -67,12 +64,8 @@ Players can choose from **eight distinct Nightfarers**, each possessing unique a
 ### Environmental Challenges
 As night approaches, a hazardous phenomenon known as the **Night’s Tide** contracts the playable area, compelling players to confront escalating threats and adapt their strategies accordingly.
 
-*BANDAI NAMCO USA*
-
 ## Development Insights
 Directed by **Junya Ishizaki**, a seasoned designer from previous FromSoftware titles, **Elden Ring: Nightreign** aims to offer a complete and fulfilling experience upon release. The development team emphasizes that the game is not designed as a live-service model; instead, all content is accessible from the outset, ensuring players can unlock and experience everything without additional purchases.
-
-*BANDAI NAMCO USA*
 
 ## Pre-Order Bonuses
 Players who pre-order any edition of **Elden Ring: Nightreign** will receive the exclusive **“It’s Raining!” Gesture**, adding a unique emote to their in-game repertoire.
